@@ -11,10 +11,10 @@ A simple PaintBrush application built in Java that allows users to draw shapes, 
 - Save drawing as an image.
 
 ## Created By
-
+- Ahmed Abdelrahman
 - Anas Mohamed Amin
 - Saged Wael
-- Ahmed Abdelrahman
+
 
 ## Installation
 
