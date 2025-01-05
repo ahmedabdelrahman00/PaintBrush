@@ -40,6 +40,4 @@ A simple PaintBrush application built in Java that allows users to draw shapes, 
       java Buttons
       ```
 
-## License
 
-This project is open-source and available under the MIT License.
