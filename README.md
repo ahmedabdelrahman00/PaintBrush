@@ -25,19 +25,19 @@ A simple PaintBrush application built in Java that allows users to draw shapes, 
 
 2. Navigate to the project directory:
     ```bash
-    cd drawing-application
+    cd PaintBrush
     ```
 
 3. Compile and run the project:
     - Ensure you have Java installed (JDK 8 or higher).
     - Compile:
       ```bash
-      javac Buttons.java
+      javac MyMain.java
       ```
 
     - Run:
       ```bash
-      java Buttons
+      java MyMain
       ```
 
 
